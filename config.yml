@@ -1,8 +1,8 @@
 db:
   type: postgres
-  host: ${DB_HOST}
-  port: ${DB_PORT}
-  user: ${DB_USER}
-  pass: ${DB_PASS}
-  db: ${DB_NAME}
+  host: dpg-d1522cu3jp1c73fd49cg-a
+  port: 5432
+  user: wikidb_e2h1_user
+  pass: JOeGPxu5tIP0kv2T8Lk6dy1vmJDUWhII
+  db: wikidb_e2h1
   ssl: true
