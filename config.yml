@@ -5,4 +5,5 @@ db:
   user: wikidb_e2h1_user
   pass: JOeGPxu5tIP0kv2T8Lk6dy1vmJDUWhII
   db: wikidb_e2h1
-  ssl: true
+  ssl: 
+    rejectUnauthorized: false
